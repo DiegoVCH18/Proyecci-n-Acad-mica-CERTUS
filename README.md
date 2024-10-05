@@ -11,3 +11,4 @@ license: mit
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+ACCEDE AL PROYECTO DESDE: https://huggingface.co/spaces/Diegovch18/PROYECTO_CERTUS
